@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EdouardVincent
 - 👀 I’m interested in the programmation with python
-- 🌱 I’m currently learning Rhino7 with python
+- 🌱 I’m currently learning the C language
 - 📫 How to reach me : perso@edouardvincent.com
 
 <!---
